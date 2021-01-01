@@ -6,6 +6,7 @@ basic.showLeds(`
     . # . # .
     # . . . #
     `)
+basic.showString("Hello charles Wellkom")
 basic.forever(function () {
 	
 })
